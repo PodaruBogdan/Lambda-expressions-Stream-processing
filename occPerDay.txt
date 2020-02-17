@@ -1,0 +1,127 @@
+   Day : 111-11-11
+Activity : Leaving	 occurrence/day : 1
+Activity : Breakfast	 occurrence/day : 1
+Activity : Sleeping occurrence/day : 1
+Activity : Grooming	 occurrence/day : 3
+Activity : Showering	 occurrence/day : 1
+Activity : Spare_Time/TV occurrence/day : 3
+Activity : Toileting	 occurrence/day : 2
+Activity : Lunch occurrence/day : 1
+   Day : 111-11-10
+Activity : Leaving	 occurrence/day : 2
+Activity : Breakfast	 occurrence/day : 1
+Activity : Sleeping occurrence/day : 1
+Activity : Grooming	 occurrence/day : 4
+Activity : Showering	 occurrence/day : 1
+Activity : Spare_Time/TV occurrence/day : 4
+Activity : Toileting	 occurrence/day : 1
+   Day : 111-10-29
+Activity : Leaving	 occurrence/day : 1
+Activity : Breakfast	 occurrence/day : 1
+Activity : Sleeping occurrence/day : 1
+Activity : Snack	 occurrence/day : 1
+Activity : Grooming	 occurrence/day : 3
+Activity : Showering	 occurrence/day : 1
+Activity : Spare_Time/TV occurrence/day : 6
+Activity : Toileting	 occurrence/day : 4
+Activity : Lunch occurrence/day : 1
+   Day : 111-10-28
+Activity : Leaving	 occurrence/day : 1
+Activity : Breakfast	 occurrence/day : 1
+Activity : Sleeping occurrence/day : 1
+Activity : Snack	 occurrence/day : 1
+Activity : Grooming	 occurrence/day : 2
+Activity : Showering	 occurrence/day : 1
+Activity : Spare_Time/TV occurrence/day : 4
+Activity : Toileting	 occurrence/day : 3
+Activity : Lunch occurrence/day : 1
+   Day : 111-11-9
+Activity : Leaving	 occurrence/day : 2
+Activity : Breakfast	 occurrence/day : 1
+Activity : Sleeping occurrence/day : 1
+Activity : Grooming	 occurrence/day : 5
+Activity : Showering	 occurrence/day : 1
+Activity : Spare_Time/TV occurrence/day : 6
+Activity : Toileting	 occurrence/day : 2
+   Day : 111-11-2
+Activity : Breakfast	 occurrence/day : 1
+Activity : Sleeping occurrence/day : 1
+Activity : Snack	 occurrence/day : 1
+Activity : Grooming	 occurrence/day : 4
+Activity : Showering	 occurrence/day : 1
+Activity : Spare_Time/TV occurrence/day : 7
+Activity : Toileting	 occurrence/day : 3
+Activity : Lunch occurrence/day : 1
+   Day : 111-10-30
+Activity : Leaving	 occurrence/day : 1
+Activity : Breakfast	 occurrence/day : 1
+Activity : Sleeping occurrence/day : 1
+Activity : Snack	 occurrence/day : 2
+Activity : Grooming	 occurrence/day : 2
+Activity : Showering	 occurrence/day : 1
+Activity : Spare_Time/TV occurrence/day : 8
+Activity : Toileting	 occurrence/day : 6
+Activity : Lunch occurrence/day : 1
+   Day : 111-11-1
+Activity : Leaving	 occurrence/day : 1
+Activity : Breakfast	 occurrence/day : 1
+Activity : Sleeping occurrence/day : 1
+Activity : Grooming	 occurrence/day : 3
+Activity : Showering	 occurrence/day : 1
+Activity : Spare_Time/TV occurrence/day : 6
+Activity : Toileting	 occurrence/day : 2
+Activity : Lunch occurrence/day : 1
+   Day : 111-11-4
+Activity : Leaving	 occurrence/day : 1
+Activity : Breakfast	 occurrence/day : 1
+Activity : Sleeping occurrence/day : 1
+Activity : Snack	 occurrence/day : 2
+Activity : Grooming	 occurrence/day : 2
+Activity : Showering	 occurrence/day : 1
+Activity : Spare_Time/TV occurrence/day : 6
+Activity : Toileting	 occurrence/day : 4
+   Day : 111-11-3
+Activity : Leaving	 occurrence/day : 1
+Activity : Breakfast	 occurrence/day : 1
+Activity : Sleeping occurrence/day : 1
+Activity : Grooming	 occurrence/day : 3
+Activity : Showering	 occurrence/day : 1
+Activity : Spare_Time/TV occurrence/day : 4
+Activity : Toileting	 occurrence/day : 2
+   Day : 111-11-6
+Activity : Breakfast	 occurrence/day : 1
+Activity : Sleeping occurrence/day : 1
+Activity : Snack	 occurrence/day : 1
+Activity : Grooming	 occurrence/day : 4
+Activity : Showering	 occurrence/day : 1
+Activity : Spare_Time/TV occurrence/day : 5
+Activity : Toileting	 occurrence/day : 3
+Activity : Lunch occurrence/day : 1
+   Day : 111-11-5
+Activity : Leaving	 occurrence/day : 2
+Activity : Breakfast	 occurrence/day : 1
+Activity : Sleeping occurrence/day : 1
+Activity : Snack	 occurrence/day : 1
+Activity : Grooming	 occurrence/day : 6
+Activity : Showering	 occurrence/day : 1
+Activity : Spare_Time/TV occurrence/day : 7
+Activity : Toileting	 occurrence/day : 5
+Activity : Lunch occurrence/day : 1
+   Day : 111-11-8
+Activity : Leaving	 occurrence/day : 1
+Activity : Breakfast	 occurrence/day : 1
+Activity : Sleeping occurrence/day : 1
+Activity : Grooming	 occurrence/day : 5
+Activity : Showering	 occurrence/day : 1
+Activity : Spare_Time/TV occurrence/day : 4
+Activity : Toileting	 occurrence/day : 1
+   Day : 111-11-7
+Activity : Leaving	 occurrence/day : 1
+Activity : Breakfast	 occurrence/day : 1
+Activity : Sleeping occurrence/day : 1
+Activity : Snack	 occurrence/day : 2
+Activity : Grooming	 occurrence/day : 5
+Activity : Showering	 occurrence/day : 1
+Activity : Spare_Time/TV occurrence/day : 8
+Activity : Toileting	 occurrence/day : 6
+Activity : Lunch occurrence/day : 1

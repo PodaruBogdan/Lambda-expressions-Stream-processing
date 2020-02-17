@@ -1,0 +1,9 @@
+Leaving	 ->  99884
+Breakfast	 ->  10688
+Sleeping ->  471811
+Snack	 ->  361
+Grooming	 ->  9642
+Showering	 ->  5649
+Spare_Time/TV ->  512935
+Toileting	 ->  8434
+Lunch ->  18811
